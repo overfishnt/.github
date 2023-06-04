@@ -1,4 +1,4 @@
-![FISHKUXBANGKIT2023](../images/dummy.png)
+![FISHKUXBANGKIT2023](profile.png)
 <br>
 ## [C23-CD01] Overfishn't - Fisheries Performance Analysis Data Solutions
 Our team consists of 3 people who come from Oceanography study program backgrounds who are familiar with ocean problems. The other comes from an IT background . We are also familiar with Big Data. Together we can implement our ideas so that we can then produce a product that is useful in solving fisheries problems, helping the welfare of fishermen, and contributing to maintaining Indonesia's food security.
