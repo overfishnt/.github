@@ -1,11 +1,10 @@
-# [C23-CD01] Overfishn't - Fisheries Performance Analysis Data Solutions
-![Prototype Images](https://assets.ltkcontent.com/images/98875/commercial-fisherman_7abbbb2796.jpg)
-<br><br><br>
+![FISHKUXBANGKIT2023](images/dummy.png)
+<br>
+## [C23-CD01] Overfishn't - Fisheries Performance Analysis Data Solutions
+Our team consists of 3 people who come from Oceanography study program backgrounds who are familiar with ocean problems. The other comes from an IT background . We are also familiar with Big Data. Together we can implement our ideas so that we can then produce a product that is useful in solving fisheries problems, helping the welfare of fishermen, and contributing to maintaining Indonesia's food security.
 
-## Project Executive Summary
----
-Fishermen face several challenges that lead to significant losses in the fishing industry, such as unpredictable weather conditions, unstable market demand, high expenses, and overfishing. These problems contribute to a growing issue of zero-waste, where fish are caught but not utilized, leading to both environmental and economic losses. We see these problems as interesting and challenging, also looking at the amount of data resources that are related to this problem, we come up with an excitement to create features and help to solve this problem optimally. Our primary goal is to build a dashboard website that offers valuable information to fishermen, enabling them to reduce losses while fishing. Our website will offer a range of features such as fishing heat map estimations, weather and marine conditions, budget calculations, market demand, and fish stock information. By utilizing this data, fishermen can make more informed decisions about when, where, and how to fish, ultimately helping them increase their catch and avoid overfishing. We believe that our dashboard website will be a valuable resource for fishermen, empowering them to make data-driven decisions that can increase their profitability and reduce waste. Our team is committed to developing a solution that addresses these challenges and supports the sustainable growth of the fishing industry.
-<br><br>
+<br>
+
 
 
 ## Team Members
