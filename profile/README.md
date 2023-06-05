@@ -21,9 +21,3 @@ Our team consists of 3 people who come from Oceanography study program backgroun
 <br>
 
 ## Infrastructure Schemas
-
-<br><br>
-
-## More Documentations
-1. [Machine Learning]()
-2. [Cloud Infrastructure: Machine Learning API]()
