@@ -3,10 +3,6 @@ Our team consists of 3 people who come from Oceanography study program backgroun
 
 <br>
 
-
-
-## Team Members
----
 ### Team ID: C23-CD01 - Build App To Collect Data
 | Name                            | Cohort ID          | Learning Path    | University                 | LinkedIn                                                                |
 | ------------------------------- | ------------------ | ---------------- | -------------------------- | ----------------------------------------------------------------------- |
@@ -16,6 +12,3 @@ Our team consists of 3 people who come from Oceanography study program backgroun
 | Achmad Agung Bachtiar           | C166DSX1646        | Cloud Computing  | Universitas Diponegoro     | [LinkedIn](https://www.linkedin.com/in/achmaadagung/)                   |
 | Jevin Arda Prayoga              | C282DKX3873        | Cloud Computing  | Universitas Negeri Malang  | [LinkedIn](https://www.linkedin.com/in/jevinarda/)                      |
 | Nico Kangdra                    | C322DSX0603        | Cloud Computing  | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/nico-kangdra-10378326a/)         |
-<br>
-
-## Infrastructure Schemas
